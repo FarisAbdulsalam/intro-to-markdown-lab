@@ -6,7 +6,8 @@ In JavaScript, functions are blocks of reusable code. They allow you to bundle f
 
 ## 1. Basic syntax
 
-```const functionName = (params) => {
+```
+const functionName = (params) => {
   // code to be executed
 }
 ```
@@ -18,7 +19,8 @@ In JavaScript, functions are blocks of reusable code. They allow you to bundle f
 
 ___Example___:
 
-```const greet = (name) => {
+```
+const greet = (name) => {
   console.log("Hello, " + name + "!");
 }
 ```
@@ -40,7 +42,8 @@ Functions can process data input and output a value using the _return_ keyword.
 
 ___Example___: 
 
-```const addNums = (numA, numB) => {
+```
+const addNums = (numA, numB) => {
   return numA + numB
 }
 
