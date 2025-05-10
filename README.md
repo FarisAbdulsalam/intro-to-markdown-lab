@@ -30,7 +30,9 @@ To execute the function, you _call_ or _invoke_ it by using its name followed by
 
 ___Example___:
 
-`greet('Alice'); // Outputs: Hello, Alice!`
+```
+greet('Alice'); // Outputs: Hello, Alice!
+```
 
 ## 3. Return values
 
